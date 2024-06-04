@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Empresa de Crochê</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Minha Empresa de Crochê</h1>
+    </header>
+
+    <section class="products">
+        <h2>Nossas Artes em Crochê</h2>
+        <div class="product">
+            <img src="images/manta_bebe.jpg" alt="Manta de Bebê">
+            <h3>Manta de Bebê</h3>
+            <p>Preço: R$ 120,00</p>
+        </div>
+        <div class="product">
+            <img src="images/tapete_redondo.jpg" alt="Tapete Redondo">
+            <h3>Tapete Redondo</h3>
+            <p>Preço: R$ 150,00</p>
+        </div>
+        <div class="product">
+            <img src="images/amigurumi_urso.jpg" alt="Amigurumi Urso">
+            <h3>Amigurumi Urso</h3>
+            <p>Preço: R$ 80,00</p>
+        </div>
+        <div class="product">
+            <img src="images/jogo_banheiro.jpg" alt="Jogo de Banheiro">
+            <h3>Jogo de Banheiro</h3>
+            <p>Preço: R$ 200,00</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Minha Empresa de Crochê. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
